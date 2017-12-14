@@ -1,0 +1,109 @@
+.faxian_h3{
+	margin: 0.3rem 0;
+	padding: 0 0.2rem;
+	border-left: 0.1rem solid #34db2e;
+	font-size: 0.3rem;
+	color: #333;
+}
+
+.huamiao_background2{
+	background: #fff;
+	margin-bottom: 0.5rem;
+}
+
+.faxian_p1{
+	font-size: 0.28rem;
+	padding: 0.3rem 0;
+}
+
+.faxian_p2{
+	font-size: 0.26rem;
+	color: #999;
+	padding-bottom: 0.3rem;
+}
+
+.faxiao_huodong2_img{
+	width: 1.36rem;
+	margin: 0 auto;
+}
+
+.faxiao_huodong2 p{
+	text-align: center;
+	font-size: 0.3rem;
+	color: #999999;
+	padding: 0.25rem 0;
+}
+
+.baoming_h3{
+	padding: 0.3rem 0;
+	font-size: 0.3rem;
+}
+
+.baoming input{
+	display: block;
+	border:none;
+	outline: none;
+	border-bottom: 0.01rem solid #e9e9e9;
+	padding: 0.25rem 0;
+	width: 100%;
+	color: #999999;
+	font-size: 0.3rem;
+	
+}
+
+.baoming_submit{
+	padding: 0.25rem 0;
+	background: #34db2e;
+	color: #fff;
+}
+
+.zhifu_h{
+	padding: 0.15rem 0.3rem;
+}
+
+.toolbar-inner a,.toolbar-inner h1,.picker-items-col-wrapper{
+	font-size: 0.26rem;
+}
+
+.zhifufangshi{
+	padding: 0.23rem 0 0.23rem 0.3rem;
+}
+
+.zhifufangshi_font,.zhifufangshi_font2{
+	display: flex;
+	justify-content: space-between;
+}
+
+.zhifufangshi_font_img{
+	width: 0.54rem;
+	margin-right: 0.15rem;
+}
+
+.zhifufangshi_font2 p{
+	line-height: 0.54rem;
+}
+
+.zhifufangshi_font_img2{
+	margin-top: 0.07rem;
+	width: 0.4rem;
+}
+
+.zhifufangshi_font{
+	padding: 0.25rem 0.3rem;
+	border-bottom: 0.01rem solid #ccc;
+}
+
+
+.kaitongshixian li{
+	background: #fff;
+	padding: 0.15rem 0.5rem;
+	border-top: 0.01rem solid #ddd;
+	font-size: 0.28rem;
+	color: #000;
+	display: flex;
+	justify-content: space-between;
+}
+
+.kaitongshixian li:last-child{
+	border-bottom: 0.01rem solid #ddd;
+}

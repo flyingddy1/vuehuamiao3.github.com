@@ -1,0 +1,104 @@
+.gouwuche{
+	font-size: 0.3rem;
+	color: #333;
+	background: #fff;
+	margin-top: 0.15rem;
+	line-height: 0.4rem;
+	display: flex;
+	position: relative;
+	width: 8.83rem;
+	left: 0;
+	top: 0;
+}
+
+.gouwuche_hidden{
+	width: 100%;
+	overflow: hidden;
+	overflow-x: auto;
+}
+
+.gouwuche_hidden::-webkit-scrollbar{
+	width:0px;
+}
+
+.gouwuche_left{
+	width: 7.5rem;
+	padding: 0 0.3rem;
+}
+
+.gouwuche_shangpinxinxi_top,.gouwuche_shangpinxinxi_top_left,.gouwuche_shangpinxinxi_top_right{
+	display: flex;
+	justify-content: space-between;
+}
+
+.gouwuche_shangpinxinxi_top{
+	padding: 0.3rem 0;
+}
+
+.gouwuche_shangpinxinxi_top_img{
+	width: 0.4rem;
+	margin-right: 0.15rem;
+}
+
+.gouwuche_shangpinxinxi_top_shuliang{
+	padding: 0 0.3rem;
+}
+
+.gouwuche_shangpinxinxi_top_del,.gouwuche_shangpinxinxi_top_add{
+	background: #f5f5f5;
+	padding: 0 0.1rem;
+}
+
+.gouwuche_shangpinxinxi_bottom{
+	padding: 0.15rem 0;
+	border-top: 0.01rem solid #ccc;
+	display: flex;
+	justify-content: space-between;
+}
+
+.gouwuche_shangpinxinxi_bottom_img{
+	width: 1.63rem;
+}
+
+.gouwuche_shangpinxinxi_bottom_left{
+	display: flex;
+}
+
+.gouwuche_shangpinxinxi_bottom_txt{
+	padding-left: 0.15rem;
+}
+
+.gouwuche_shangpinxinxi_bottom_p2{
+	margin-top: 0.3rem;
+	color: #1b1b1b;
+}
+
+.gouwuche_shangpinxinxi_bottom_p3{
+	padding-top: 0.68rem;
+}
+
+.gouwuche_right{
+	width: 1.33rem;
+	background: #f2514f;
+	color: #fff;
+	text-align: center;
+	padding-top: 0.9rem;
+}
+
+.gouwuche_null{
+	padding: 0.8rem 0;
+	background: #fff;
+	margin-top: 0.15rem;
+}
+
+.gouwuche_null_img{
+	width: 1.89rem;
+	margin: 0 auto;
+}
+
+.gouwuche_null p{
+	text-align: center;
+	font-size: 0.28rem;
+	color: #a9a9a9;
+	margin-top: 0.3rem;
+}
